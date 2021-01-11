@@ -7,4 +7,4 @@ end
 
 
 
-puts oxford_comma(["kiwi","apple","orange"])
+puts oxford_comma(["kiwi"])
